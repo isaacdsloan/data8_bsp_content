@@ -1,0 +1,12 @@
+name: data8_env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - mamba
+  - numpy
+  - datascience
