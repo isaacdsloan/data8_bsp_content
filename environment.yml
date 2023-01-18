@@ -10,3 +10,4 @@ dependencies:
   - mamba
   - numpy
   - datascience
+  - datetime
